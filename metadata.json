@@ -1,0 +1,6 @@
+{
+  "name": "UNI-T UTD2025CL Digital Storage Oscilloscope Simulator",
+  "description": "High-fidelity digital storage oscilloscope simulator modeled directly after the UNI-T UTD2025CL 25MHz 250MS/s laboratory instrument with authentic menus, realistic signal physics, noise generation, FFT math, cursors, and full interactive control panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
